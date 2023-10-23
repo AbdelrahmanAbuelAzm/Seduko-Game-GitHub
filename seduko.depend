@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1683173284 source:d:\embedded abdelbaset\task\seduko\main.c
+	<stdio.h>
+	<stdlib.h>
+	"seduko.h"
+
+1683173220 d:\embedded abdelbaset\task\seduko\seduko.h
+
+1683173361 source:d:\embedded abdelbaset\task\seduko\seduko.c
+	"seduko.h"
+
